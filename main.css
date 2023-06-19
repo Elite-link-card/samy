@@ -2495,7 +2495,6 @@ fieldset {
 .user-details .user-identity {
   margin-top: -75px;
   margin-bottom: 0.5rem;
-  transform: translateX(75px) translateY(-50px);
   color: #0a036e;
   width: 280px;
 }
@@ -2507,7 +2506,7 @@ fieldset {
   display: inline;
   color: #0a036e;
   ;
-  transform: translateY(20px) translateX(-150px);
+  
 }
 
 .user-details .user-pronouns {
@@ -2524,7 +2523,6 @@ fieldset {
   line-height: 1.2;
   font-style: italic;
   margin: 0.25rem 0;
-  transform: translateX(40px);
   white-space: pre-wrap;
   width: 200px;
 }
